@@ -1,0 +1,2 @@
+# wiser-releases
+Wiser installers
